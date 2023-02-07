@@ -13,7 +13,7 @@
 
 # 3. Обвести синим все broadcast домены
 
-![image](HW2.3.PNG)
+![image](HW2.3.jpg)
 
 # 4*. Настроить loopback интерфейсы.
 
